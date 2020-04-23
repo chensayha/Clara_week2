@@ -12,10 +12,10 @@ body h2{
 }
 
 body p{
-    font-family: $font_zh;
+    font-family: $font_en;
     font-weight: bold;
     line-height: 42px;
-    font-size: 20px;
+    font-size: 24px;
 
 }
 
@@ -125,6 +125,8 @@ body p{
 
 .myBrandSection p{
     margin-bottom: 48px;
+    font-family: $font_zh;
+    font-size: 20px;
 }
 
 
@@ -161,6 +163,8 @@ body p{
 
 .otherWorksSection p{
     margin-bottom: 48px;
+    font-family: $font_zh;
+    font-size: 24px;
 }
 
 .d-flex p{

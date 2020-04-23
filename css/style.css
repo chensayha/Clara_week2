@@ -5,10 +5,10 @@ body h2 {
 }
 
 body p {
-  font-family: 微軟正黑體, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: bold;
   line-height: 42px;
-  font-size: 20px;
+  font-size: 24px;
 }
 
 .header {
@@ -126,6 +126,8 @@ body p {
 
 .myBrandSection p {
   margin-bottom: 48px;
+  font-family: 微軟正黑體, sans-serif;
+  font-size: 20px;
 }
 
 .d-flex {
@@ -166,6 +168,8 @@ body p {
 
 .otherWorksSection p {
   margin-bottom: 48px;
+  font-family: 微軟正黑體, sans-serif;
+  font-size: 24px;
 }
 
 .d-flex p {
